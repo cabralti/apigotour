@@ -1,0 +1,1 @@
+<h1>API criada no curso de Lumen</h1>
